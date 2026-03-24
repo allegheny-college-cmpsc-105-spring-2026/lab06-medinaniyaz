@@ -1,0 +1,242 @@
+# ----------------------------------------
+# Reports snapshot
+# Account: Medina Niyaz
+# Property: kkkk
+# ----------------------------------------
+#  
+# Start date: 20260224
+# End date: 20260323
+Nth day,Active users
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,5
+0022,0
+0023,1
+0024,0
+0025,0
+0026,0
+0027,0
+
+# Start date: 20260224
+# End date: 20260323
+Nth day,New users
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,5
+0022,0
+0023,1
+0024,0
+0025,0
+0026,0
+0027,0
+
+# Start date: 20260224
+# End date: 20260323
+Nth day,Average engagement time per active user
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,3.6
+0022,0
+0023,11
+0024,0
+0025,0
+0026,0
+0027,0
+
+# Start date: 20260224
+# End date: 20260323
+Nth day,Total revenue
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,0
+
+# Where do your new users come from?
+# Start date: 20260224
+# End date: 20260323
+First user primary channel group (Default Channel Group),New users
+Direct,4
+Organic Search,2
+
+#  
+# Start date: 20260224
+# End date: 20260323
+Session primary channel group (Default Channel Group),Sessions
+Direct,4
+Organic Search,3
+
+#  
+# Start date: 20260224
+# End date: 20260323
+Country ID,Active users
+US,5
+
+# Start date: 20260224
+# End date: 20260323
+Country,Active users
+US,5
+
+# How are active users trending?
+# Start date: 20260224
+# End date: 20260323
+Nth day,30 days,7 days,1 day
+0000,0,0,0
+0001,0,0,0
+0002,0,0,0
+0003,0,0,0
+0004,0,0,0
+0005,0,0,0
+0006,0,0,0
+0007,0,0,0
+0008,0,0,0
+0009,0,0,0
+0010,0,0,0
+0011,0,0,0
+0012,0,0,0
+0013,0,0,0
+0014,0,0,0
+0015,0,0,0
+0016,0,0,0
+0017,0,0,0
+0018,0,0,0
+0019,0,0,0
+0020,0,0,0
+0021,5,5,5
+0022,5,5,0
+0023,6,6,1
+0024,6,6,0
+0025,6,6,0
+0026,6,6,0
+0027,6,6,0
+
+# How well do you retain your users?
+# Start date: 20260208
+# End date: 20260321
+Date,Week 0,Week 1,Week 2,Week 3,Week 4,Week 5
+Feb 8 - Feb 14,0,0,0,0,0,0
+Feb 15 - Feb 21,0,0,0,0,0,-1
+Feb 22 - Feb 28,0,0,0,0,-1,-1
+Mar 1 - Mar 7,0,0,0,-1,-1,-1
+Mar 8 - Mar 14,0,0,-1,-1,-1,-1
+Mar 15 - Mar 21,6,-1,-1,-1,-1,-1
+
+#  
+# Start date: 20260224
+# End date: 20260323
+Page title and screen class,Views
+Data Analytics Lab – EXPLORER,8
+Questionnaire – EXPLORER,7
+
+#  
+# Start date: 20260224
+# End date: 20260323
+Event name,Event count
+page_view,15
+user_engagement,12
+session_start,7
+first_visit,6
+scroll,1
+
+# What are your top performing key events?
+# Start date: 20260224
+# End date: 20260323
+Event name,Key events
+
+
+# Where does your average 120d value come from?
+# Start date: 20260224
+# End date: 20260323
+First user primary channel group (Default Channel Group),Average 120d value
+
+
+#  
+# Start date: 20260224
+# End date: 20260323
+Item name,Items purchased
+
+
+# How does activity on your platforms compare?
+# Start date: 20260224
+# End date: 20260323
+Platform,Key events
