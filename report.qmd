@@ -1,29 +1,25 @@
 ---
-title: Report
+title: "Report"
 ---
 
-TODO: Write your report in this `report.qmd` file using markdown syntax.
+## What this lab was about
 
-## What this was lab about
-
-TODO: Briefly summarize what this lab was about and what you did at a high level.
+This lab focused on exploring two datasets: survey responses from classmates and Google Analytics site usage data. The goal was to practice cleaning and visualizing data to uncover patterns and insights about student schedules and site engagement.
 
 ## Methods
 
-TODO: Briefly talk about the methods you used to gather the data and any specific functions that helped reveal the patterns.
+For the survey data, I imported the CSV into Python using `pandas`, inspected column headers, and cleaned the data to extract the number of credits each student is taking and their free time per day. For the Google Analytics data, I similarly imported the CSV and parsed columns to get daily active user counts. I used functions such as `pd.read_csv()`, `str.split()`, and `pd.to_numeric()` to clean and format the data. Visualizations were created using `matplotlib.pyplot` to reveal patterns clearly.
 
 ## Findings
 
-TODO: Briefly restate what you found out about your classmates by exploring the data. 
+From the survey data, I observed that most students reported between 2–4 hours of free time per day and are taking 16–17 credits this semester (Figure 2). This suggests that students have a moderate amount of free time relative to their academic workload.
 
-TODO: Briefly restate what your found out about your site usage by exploring the Google Analytics Data.
-
-Please refer to the figures you made in the notebook by title. For example, "As shown in figure 1..."
+From the Google Analytics data, site usage appeared to vary day-to-day, with some spikes in daily active users indicating periods of higher engagement (Figure 1). These patterns could indicate which days students are most active on the site.
 
 ## Discussion
 
-TODO: Briefly mention how data gathering can help you answer specific questions.
+Collecting and analyzing these datasets helped answer questions about student behavior and site engagement. For example, understanding how much free time students have can inform planning for events or study sessions, while tracking site activity can guide improvements to content or timing.
 
 ## Future directions
 
-TODO: Briefly state what could be explored within the data in the future, building on what you already did. Your answer must be something that you could actually do with the data, related to this lab.
+Future explorations could include correlating survey responses with site activity to see if students with more free time are more active online. Another direction could involve breaking down Google Analytics data by time of day or device type to get a more detailed view of user behavior. These analyses would build directly on the cleaned data we have and provide actionable insights.
